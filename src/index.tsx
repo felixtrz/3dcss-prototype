@@ -62,7 +62,7 @@ const App = () => {
             fontSize: "20px",
           }}
         >
-          Enter VR
+          Enter XR
         </button>
       </div>
     </>
